@@ -1,4 +1,4 @@
-# UTC Time
+# Copy UTC Time
 
 A Raycast extension that copies the current UTC time to the clipboard in ISO 8601 format.
 
